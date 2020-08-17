@@ -7,7 +7,7 @@ Score prediction using Linear regression
 
 In this Task, I have to predict the percentage of marks that a student is expected to score based upon the number of hours they studied. 
 Here I have used simple linear regression model to perform this task.
-
+In addition to this I have also made GUI for this task using Tkinter(GUI Toolkit).
 Inorder to run GUI, install necessary libraries such as pyttsx3(which is used for audio output).
 
 # Task-3
